@@ -1,0 +1,29 @@
+Año,	'2011’,			'2012’
+1,	'Puesto’		'Puesto'	
+2,	'Colegio',		'Colegio'
+3,	'Municipio',		'Calendario'
+4,	'Departamento',		'Evaluados'
+5,	'Oficial',		'Promedio_Total'
+6,	'Periodo',		'Matematica'
+7,	'Jornada',		'DE_Matematica'
+8,	'Calendario',		'Quimica'
+9,	'Evaluados',		'DE_Quimica'
+10,	'Promedio_Total',	'Fisica'
+11,	'Matematica',		'DE_Fisica'
+12,	'Quimica',		'Biologia'
+13,	'Fisica',		'DE_Biologia'
+14,	'Biologia',		'Filosofia'
+15,	'Filosofia',		'DE_Filosofia'
+16,	'Ingles',		'Ingles'
+17,	'Lenguaje',		'DE_Ingles'
+18,	'Sociales',		'Lenguaje'
+19,	'DE_Matematica',	'DE_Lenguaje'
+20,	'DE_Quimica',		'Sociales'
+21,	'DE_Fisica',		'DE_Sociales'
+22,	'DE_Biologia',		'Municipio'
+23,	'DE_Filosofia',		'Departamento'
+24,	'DE_Ingles',		'Jornada'
+25,	'DE_Lenguaje',		
+26,	'DE_Sociales',		
+27,	'CSE_2009',		
+
